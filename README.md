@@ -10,7 +10,7 @@ Simple demo application that showcases calculating Mean and Median using best pr
   </tr>
   <tr>
     <td><img src="Screenshots/Screenshot1.png" width=704 height=1424></td>
-    <td><img src="Screenshots/Screenshot2.png" width=222 height=1432></td>
+    <td><img src="Screenshots/Screenshot2.png" width=722 height=1432></td>
   </tr>
 </table>
  
