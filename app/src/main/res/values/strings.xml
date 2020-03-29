@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Math App</string>
+    <string name="invalid_number_toast">Input a number between 1 and 2147483647</string>
+    <string name="max_size_toast">Array reached maximum size</string>
+    <string name="mean_median_calculation">MEAN MEDIAN CALCULATION</string>
+    <string name="input_hint">Enter Number</string>
+    <string name="add_to_array">ADD TO ARRAY</string>
+    <string name="mean">MEAN:</string>
+    <string name="median">MEDIAN:</string>
+    <string name="reset_array">RESET ARRAY</string>
+</resources>
