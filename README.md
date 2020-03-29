@@ -9,8 +9,8 @@ Simple demo application that showcases calculating Mean and Median using best pr
     <td>Math App Test Calculation</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Screenshot1.png" width=704 height=1424></td>
-    <td><img src="Screenshots/Screenshot2.png" width=722 height=1432></td>
+    <td><img src="Screenshots/Screenshot1.png" width=297 height=600></td>
+    <td><img src="Screenshots/Screenshot2.png" width=303 height=600></td>
   </tr>
 </table>
  
